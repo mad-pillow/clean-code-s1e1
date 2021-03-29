@@ -34,7 +34,8 @@ body {
   margin: 0 auto 0;
 }
 
-.task-field, .task-label {
+.task-field,
+.task-label {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
@@ -56,7 +57,11 @@ body {
   list-style: none;
 }
 
-.checkbox, .task-field, .add-btn, .edit-btn, .delete-btn {
+.checkbox,
+.task-field,
+.add-btn,
+.edit-btn,
+.delete-btn {
   outline: none;
 }
 
@@ -176,7 +181,8 @@ body {
 }
 
 /* Edit Task */
-.incomplete-tasks-item .task-field, .completed-tasks-item .task-field {
+.incomplete-tasks-item .task-field,
+.completed-tasks-item .task-field {
   display: none;
 }
  
