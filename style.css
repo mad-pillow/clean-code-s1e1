@@ -13,7 +13,7 @@ body {
 .hero-block img {
   width: 100%;
 }
-.hero-block .more-inf-link {
+.hero-block .more-info-link {
   font-family: fantasy, cursive;
 }
 
@@ -21,7 +21,7 @@ body {
 .hero-block { text-align: center;
 }
 }
-.centered-main-page-element {
+.wrapper {
   display: block;
   width: 500px;
   margin: 0 auto 0;
